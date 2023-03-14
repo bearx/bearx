@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- [Email](mailto:bearxk2@foxmail.com)
+- I used to be participant in NOIP and ACM contest, and won 2nd prize in NOIP and silver medal in ICPC Hong Kong Regional.
+- I am a Computer Vision Engineer now, working on perception CV algorithm in embedding devices in vehicles.
+- C++ and Python are my most common used programming language, also use golang and R.
+
 <!--
 **bearx/bearx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
